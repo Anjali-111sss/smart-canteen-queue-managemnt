@@ -1,0 +1,19 @@
+# Smart Canteen Queue Management System
+# Requirements File
+
+# This project uses only Python standard library
+# No external dependencies are required
+
+# Python Version Requirement
+# Python 3.6 or higher
+
+# Standard Library Modules Used:
+# - collections.deque (for efficient queue operations)
+# - datetime (for time tracking)
+# - os (for system operations)
+# - sys (for system-specific parameters)
+
+# Installation:
+# No installation required - just ensure Python 3.6+ is installed
+# Run: python main.py
+
